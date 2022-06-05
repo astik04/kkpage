@@ -1,0 +1,148 @@
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  line-height: 1.5em;
+  background:url("pexels-miguel-á-padriñán-255379.jpg") no-repeat;
+  background-size: cover;
+  
+}
+
+h1, h2, h3, h5, h6 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-style: italic;
+  margin:0;
+  padding:0;
+  margin-top: 2px;
+}
+h1{
+  margin-top: 2px;
+}
+
+p{
+  text-align: justify;
+}
+
+.container-fluid{
+  width: 99%;
+  display:block;
+  background-color: #F9CEEE;
+}
+
+.cite{
+      font-size:5px;
+      font-family:arial;
+      font-weight:bold;
+    
+}
+
+.blockquote {
+    padding: .5rem 1rem;
+    border-right: .25rem solid #bfbfbf;
+    background-color: #E6E6E8;
+    font-size:16px;
+}
+
+.blockquote-footer{
+  text-align: right;
+}
+
+#foobar { display: none }
+ 
+header, section{
+  background-color:#fff;
+  margin:0;
+  padding:0;
+}
+.about{
+  background-color: #F9F3EE;
+}
+.life{
+  background-color: #CCF3EE;
+}
+.death{
+  background-color: #97C4B8;
+  margin-top: 1px;
+}
+.tp{
+  background-color: #FFB72B;
+}
+hr{
+  margin:0;
+  padding:0;
+}
+
+#image{
+}
+
+h3{
+  font-size:20px;
+  padding-bottom:20px;
+}
+
+h1{
+  font-size:30px;
+  padding-bottom:20px;
+}
+
+h2{
+  font-size: 25px;
+  padding-bottom: 20px;
+  margin-top:10px;
+}
+
+img{
+  width: 100%;
+  height: 340px;
+  max-width: 320px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+ul{
+  list-style:none;
+}
+
+li{
+  padding:10px;
+}
+
+#down{
+  padding-top:20px;
+  background-color:#fff;
+  text-align: center;
+}
+
+#myid{
+  text-align: center;
+  font-size: small;
+}
+
+#info{
+  padding: .5rem 1rem;
+  background-color: #E6E6E8;
+  display:inline-block;
+}
+
+header h3{
+  padding-top:10px;
+}
+
+@media (max-width: 575.98px) {
+img{
+  border-bottom: 2px solid #E6E6E8;;
+}
+}
+.video{
+  width: 100%;
+  height: 340px;
+  max-width: 320px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.quote{
+  margin-top: 2px;
+}
